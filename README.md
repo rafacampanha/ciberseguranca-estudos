@@ -1,5 +1,7 @@
 # 🛡️ Estudos de Cibersegurança
 
+[![Testes](https://github.com/rafacampanha/ciberseguranca-estudos/actions/workflows/testes.yml/badge.svg)](https://github.com/rafacampanha/ciberseguranca-estudos/actions/workflows/testes.yml)
+
 Repositório onde registro minha jornada rumo à **cibersegurança**, com foco em **segurança defensiva (Blue Team)**: pequenas ferramentas em Python, laboratórios e anotações de estudo.
 
 > Tudo aqui é para fins educacionais e defensivos. Os logs de exemplo usam IPs reservados para documentação (RFC 5737).
